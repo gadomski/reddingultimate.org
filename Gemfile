@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'nesta', :git => "https://github.com/gma/nesta.git"
+gem 'nesta'
 gem 'unicorn'
 gem 'capistrano'
 gem 'rvm-capistrano'
