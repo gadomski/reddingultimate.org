@@ -1,9 +1,9 @@
-Summary: The Red Hot Hat 2013 will be held on April 27th at Enterprise Park.
+Summary: The Red Hot Hat TEST1 2013 will be held on April 27th at Enterprise Park.
 Categories: red-hot-hat
 Read more: More info
 Updated: March 13, 2013
 
-# Red Hot Hat 2013
+# Red Hot Hat 2013 DOC: One has for header 1
 
 <ul class="thumbnails pull-right span4">
     <li class="span3 pull-right">
@@ -12,7 +12,7 @@ Updated: March 13, 2013
                 <img src="/images/rhh-2013-disc.jpg" alt="Tentative disc design" id="discimg">
             </a>
             <p class="caption">
-                Disc design for this year's Red Hot Hat.
+                Disc design for this year's Red Hot TEST2 Hat.
                 Discs can be <a href="#discs">pre-ordered</a> for $10 each.
             </p>
         </div>
@@ -28,7 +28,7 @@ Updated: March 13, 2013
     </li>
 </ul>
 
-The 2013 Red Hot Hat tournament will be held on Saturday, April 27th at [Enterprise Park](/places/enterprise), starting at 8:30am.
+The 2013 Red Hot Hat tournament TEST3 will be held on Saturday, April 27th at [Enterprise Park](/places/enterprise), starting at 8:30am.
 <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">Pre-registration</a> is $20 and closes Wednesday, April 24th.
 Day-of registration is $25.
 We hope to see you there!
