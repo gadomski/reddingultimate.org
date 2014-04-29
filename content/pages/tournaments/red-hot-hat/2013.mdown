@@ -1,7 +1,7 @@
-Summary: The Red Hot Hat 2013 will be held on April 27th at Enterprise Park.
+Summary: The Red Hot Hat 2013 was held on April 27th at Enterprise Park.
 Categories: red-hot-hat
 Read more: More info
-Updated: March 13, 2013
+Updated: April 29, 2014
 
 # Red Hot Hat 2013
 
@@ -13,90 +13,24 @@ Updated: March 13, 2013
             </a>
             <p class="caption">
                 Disc design for this year's Red Hot Hat.
-                Discs can be <a href="#discs">pre-ordered</a> for $10 each.
+                Discs were $10 each.
             </p>
         </div>
     </li>
 </ul>
 
-<ul>
-    <li>
-        <a href="#registration_and_payment">Registration and Payment</a>
-    </li>
-    <li>
-        <a href="#discs">Discs</a>
-    </li>
-</ul>
+The 2013 Red Hot Hat tournament was held on Saturday, April 27th at [Enterprise Park](/places/enterprise), starting at 8:30am.
+Pre-registration was $20, and day-of registration was $25.
 
-The 2013 Red Hot Hat tournament will be held on Saturday, April 27th at [Enterprise Park](/places/enterprise), starting at 8:30am.
-<a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">Pre-registration</a> is $20 and closes Wednesday, April 24th.
-Day-of registration is $25.
-We hope to see you there!
+The Red Hot Hat is always a open-to-the-public hat tournament.
+You didn't need to come with a team &mdash; you just brought yourself, and we put together random yet balanced teams the morning of the tournament!
+The 2013 tournament started at 8:30am and ran through the afternoon until 4pm or 5pm.
 
-The Red Hot Hat is a open-to-the-public hat tournament.
-You don't need to come with a team &mdash; just bring yourself, and we will put together random yet balanced teams the morning of the tournament!
-The tournament starts at 8:30am and will run through the afternoon until 4pm or 5pm.
-
-We will provide a guaranteed four games, food, hydration, and basic amenities.
-Pre-registration <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">is open</a> (link will open in a new window), and you will be presented with a link to pay after you submit the form.
-You're welcome to indicate your intention to attend on the [Facebook event](https://www.facebook.com/events/148400795324397/), but you will *not* be registered unless you complete our registration form and pay.
-
-All updates and new information will be posted to this page, as well as our [Facebook group](https://www.facebook.com/groups/ReddingUltimateAssociation/) and [mailing list](https://groups.google.com/forum/?fromgroups#!forum/redding-ultimate-association).
-We can't wait to see you at the tournament on April 27th!
+We provided guaranteed four games, food, hydration, and basic amenities.
 
 Some miscellany:
 
-* This year's theme is [cryptozoology](http://en.wikipedia.org/wiki/Cryptozoology); each team will be themed after a different epic creature.
-* We will have discs available for order at the fields for $15. You can also [pre-order](#discs) discs for $10.
-* Even if you pre-register, you will need to sign a waiver when you get to the fields. If you are under 18, you will need a parent or guardian present to sign the waiver with you.
-* While we encourage revelry and good times in every form, alcohol is not allowed at the fields.
-
-## Registration and Payment
-
-Our <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">registration page</a> is now open.
-Please sign up via the form, then submit your payment ($20) via the provided paypal link.
-
-<div class="pull-right span3 well" style="text-align: center">
-    <h5>Pay for the tournament</h5>
-    <p class="muted">(please <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">register</a> first)</p>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-    <input type="hidden" name="cmd" value="_s-xclick" />
-    <input type="hidden" name="hosted_button_id" value="J8T5S53YC9JAE" />
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!"/>
-    <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-    </form>
-</div>
-
-If you registered but did not pay (for whatever reason), you can use the button on the right to finalize your registration.
-If you aren't sure if you registered or not, just send us an email at <redhothat@reddingultimate.org> and we can check for you.
-
-Please make sure that the name to use to pay is the same name you put on the registration form.
-If those names are different for whatever reason, please send us a note at <redhothat@reddingultimate.org> so we can apply your payment to your registration.
-
-If you don't want to pay online, you can pay by check.
-Send a check, made out to the "Redding Ultimate Association" with "RHH 2013" in the memo, to 2955 Anita St. Redding, CA 96001.
-
-
-## Discs
-
-<div class="pull-right span3 well" style="text-align: center">
-    <h5>Buy discs</h5>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick" />
-        <input type="hidden" name="hosted_button_id" value="8EHH3RW7UPVVQ" />
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-    </form>
-</div>
-
-Red Hot Hat 2013 <a href="#discimg">discs</a> are available for pre-order at $10 a disc until the day of the tournament, when the price will go up to $15 per disc.
-To pre-order, use the button at the right.
-You can pick up your disc when you check in on the day of the tournament.
-
-If you would like to pre-order a disc, but don't want to use Paypal, you can send a check, made out to the "Redding Ultimate Association" with "RHH 2013 disc" in the memo, to 2955 Anita St. Redding, CA 96001.
-
-
-## See you April 27th!!!
-
-Any questions can be directed to <redhothat@reddingultimate.org>.
-We can't wait!
+* 2013's theme was [cryptozoology](http://en.wikipedia.org/wiki/Cryptozoology); each team was be themed after a different epic creature.
+* We had discs available for order at the fields for $15, pre-ordered discs cost $10.
+* Even if you pre-registered, you had to sign a waiver when you get to the fields. If you were under 18, you needed a parent or guardian to sign the waiver with you.
+* While we encouraged revelry and good times in every form, alcohol was not allowed at the fields.
